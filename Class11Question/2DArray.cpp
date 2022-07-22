@@ -1,3 +1,4 @@
+// this program is to print the 2D Array
 #include<stdio.h>
 int main()
 {
